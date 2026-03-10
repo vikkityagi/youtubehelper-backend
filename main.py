@@ -21,17 +21,21 @@ def home():
 
 @app.get("/search")
 def search(query: str):
-    result = search_video(query)
-    url = result['url']
-    videoId = url.split("/")[-1].split("?")[0]
-    # print(videoId)
-    transcript = get_transcript(videoId)
-    # print('Trans-script - ',transcript)
-    return {
-        "video": result,
-        "transcript": transcript
-    }
+    try:
+        result = search_video(query)
 
+        url = result['url']
+        videoId = url.split("/")[-1].split("?")[0]
+
+        transcript = get_transcript(videoId)
+
+        return {
+            "video": result,
+            "transcript": transcript
+        }
+
+    except Exception as e:
+        return {"error": str(e)}
 # def get_transcript(video_id: str):
 #     transcript = YouTubeTranscriptApi.get_transcript(video_id)
 #     return transcript
