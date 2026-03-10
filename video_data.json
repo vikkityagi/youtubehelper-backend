@@ -1,0 +1,107 @@
+[
+  {
+    "title": "Angular Video 1 - Terms describing used in this series",
+    "url": "https://youtu.be/uRqn9hnRsMM?si=1LdtqgXl0aqkUQDg",
+    "text": "angular terminology introduction frontend backend framework typescript node npm concepts used in angular series"
+  },
+  {
+    "title": "Angular Video 2 - What is Angular Component",
+    "url": "https://youtu.be/oJsN1j1bzLU?si=Gpe2QJ4hJcmbB4tf",
+    "text": "what is angular component component architecture angular application building blocks angular component explanation"
+  },
+  {
+    "title": "Angular Video 3 - Difference between Angular and React",
+    "url": "https://youtu.be/4QIKDshW9Yo?si=zE8OzOScuksk_mmg",
+    "text": "difference between angular and react framework comparison frontend frameworks angular vs react features"
+  },
+  {
+    "title": "Angular Video 4 - Angular Setup Guide",
+    "url": "https://youtu.be/l6JQZse6eas?si=Z_EWhB4c0Gt8vpTI",
+    "text": "how to install angular step by step angular setup node installation angular cli installation npm setup angular development environment"
+  },
+  {
+    "title": "Angular Video 5 - Angular Setup from Scratch",
+    "url": "https://youtu.be/l6JQZse6eas?si=2YDmTrFYXprgtv9E",
+    "text": "angular project creation from scratch angular cli command ng new angular project setup tutorial"
+  },
+  {
+    "title": "Angular Video 6 - What is Angular Component",
+    "url": "https://youtu.be/yiROwEzTrks?si=rsa_J0OklN2-XLqH",
+    "text": "angular component structure component decorator typescript template style angular component working"
+  },
+  {
+    "title": "Angular Video 7 - Angular vs Routing",
+    "url": "https://youtu.be/DePCWXdZuHo?si=h1AGLZyshjvet5RF",
+    "text": "angular routing introduction navigation between pages router module route configuration angular routing tutorial"
+  },
+  {
+    "title": "Angular Video 8 - What is Standalone Component",
+    "url": "https://youtu.be/hXv6Of183oU?si=Lafzro7N08wgfKEC",
+    "text": "standalone component angular 14 feature module free components angular standalone component explanation"
+  },
+  {
+    "title": "Angular Video 9 - Angular Lifecycle Hook",
+    "url": "https://youtu.be/aPS6OfptSc8?si=TfbjVgNfs9kGVmPz",
+    "text": "angular lifecycle hooks ngOnInit ngOnDestroy ngOnChanges component lifecycle angular lifecycle explanation"
+  },
+  {
+    "title": "Angular Video 10 - @Input vs @Output Part 1",
+    "url": "https://youtu.be/6_Jz4Kbi3II?si=gTqHreclG2hzgetp",
+    "text": "angular input decorator output decorator parent child communication data passing between components"
+  },
+  {
+    "title": "Angular Video 10 - @Input vs @Output Part 2",
+    "url": "https://youtu.be/zN6Ug4Xs7ps?si=1WuiCF3A2GadZuJA",
+    "text": "angular input output advanced example component interaction event emitter angular data sharing"
+  },
+  {
+    "title": "Angular Video 11 - Angular Routing",
+    "url": "https://youtu.be/pknA_xwbs5k?si=SKI8tLnNIP78bAqv",
+    "text": "angular routing configuration route navigation router link router outlet lazy loading routes"
+  },
+  {
+    "title": "Angular Video 12 - Synchronous vs Asynchronous vs Observable",
+    "url": "https://youtu.be/Db2mec0vuuM?si=Rh04iwHv5aUVQd3n",
+    "text": "javascript synchronous asynchronous programming observables angular rxjs explanation"
+  },
+  {
+    "title": "Angular Video 13 - Promise vs Observable",
+    "url": "https://youtu.be/ZkjwVUEbQmw?si=EGqvAQhDUge-nigJ",
+    "text": "difference between promise and observable rxjs observable stream asynchronous programming"
+  },
+  {
+    "title": "Angular Video 14 - Data Sharing Between Sibling Components",
+    "url": "https://youtu.be/yUXN4hmzCtA?si=azSAoUKzrEfdXJu_",
+    "text": "angular sibling component communication service based communication rxjs subject"
+  },
+  {
+    "title": "Angular Video 15 - Angular Pipe",
+    "url": "https://youtu.be/HwYBllvY_Es?si=XMdwVge5CBNLU02j",
+    "text": "angular pipes built in pipes custom pipe data transformation angular pipe tutorial"
+  },
+  {
+    "title": "Angular Video 16 - Directive and ViewChild",
+    "url": "https://youtu.be/zMimI7APoOU?si=WkwpvMb-TcXv96mI",
+    "text": "angular directive structural directive attribute directive viewchild decorator accessing child component"
+  },
+  {
+    "title": "Angular Video 17 - Angular Form",
+    "url": "https://youtu.be/qANCour-xuk?si=Nhr3xFBr-Sb-BHm4",
+    "text": "angular forms template driven forms reactive forms form validation angular form tutorial"
+  },
+  {
+    "title": "Angular Video 18 - Angular Service",
+    "url": "https://youtu.be/oGAPnMEBxy0?si=TCJg7ovmtSeKln3y",
+    "text": "angular service dependency injection service usage angular architecture"
+  },
+  {
+    "title": "Angular Video 19 - Angular Interceptor",
+    "url": "https://youtu.be/LLyign3yz1w?si=oRj57O4MsUY1JIFO",
+    "text": "angular http interceptor intercept http request response authentication token handling"
+  },
+  {
+    "title": "Angular Video 20 - Angular Data Binding",
+    "url": "https://youtu.be/BUpfBNAhiTY?si=Pyekzb-BfctjIvGJ",
+    "text": "angular data binding interpolation property binding event binding two way binding ngModel"
+  }
+]
