@@ -1,8 +1,8 @@
 from sentence_transformers import SentenceTransformer
 import json
 
-# model = SentenceTransformer('all-MiniLM-L6-v2')
-model = SentenceTransformer('paraphrase-multilingual-MiniLM-L12-v2')
+model = SentenceTransformer('all-MiniLM-L6-v2')
+# model = SentenceTransformer('paraphrase-multilingual-MiniLM-L12-v2')
 
 with open("video_data.json") as f:
     videos = json.load(f)
